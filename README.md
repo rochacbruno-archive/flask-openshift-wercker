@@ -12,7 +12,8 @@ python app.py
 
 then
 
-- http://localhost:5000/calc/sum/1/2
+[http://localhost:5000/calc/sum/1/2](http://localhost:5000/calc/sum/1/2)
+  
 > {"result": 3}
 
 Operations are: **sum**, **sub**, **mul**, **div**
@@ -21,7 +22,7 @@ Operations are: **sum**, **sub**, **mul**, **div**
 
 The Swagger API is available at:
 
-http://localhost:5000/apidocs/index.html
+[http://localhost:5000/apidocs/index.html](http://localhost:5000/apidocs/index.html)
 
 
 ## Fork this REPO
