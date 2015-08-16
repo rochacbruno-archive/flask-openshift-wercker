@@ -33,7 +33,7 @@ Create a fork on your own github account
 
 > click the link below and change the git url to your own repo
 
-[![Launch on OpenShift](http://launch-shifter.rhcloud.com/button.svg)](https://openshift.redhat.com/app/console/application_type/custom?cartridges%5B%5D=python-2.7&initial_git_url=https://github.com/rochacbruno/flask-openshift-wercker.git&name=calculator&initial_git_branch=master)
+[![Launch on OpenShift](http://launch-shifter.rhcloud.com/button.svg)](https://openshift.redhat.com/app/console/application_type/cart!python-2.7?initial_git_url=https://github.com/rochacbruno/flask-openshift-wercker.git&name=calculator&initial_git_branch=master)
 
 ## Create a new deployment step on WerckerCI
 
