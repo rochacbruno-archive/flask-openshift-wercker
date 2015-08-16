@@ -1,4 +1,4 @@
-from app import api
+from api import api
 from shiftpy.wsgi_utils import envify
 
-application = envify(api)
+application = app = envify(api)

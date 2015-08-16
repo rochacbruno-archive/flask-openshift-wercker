@@ -1,6 +1,6 @@
 import pytest
 from flask import jsonify
-from app import calc, api
+from api import calc, api
 
 
 @pytest.fixture
