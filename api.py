@@ -52,8 +52,7 @@ def calc(op, number, other):
         "div": lambda a, b: a / b,
     }
     result = operations[op](number, other)
-    # return jsonify({"result": result})
-    return jsonify({"result": "error"})
+    return jsonify({"result": result})
 
 if __name__ == '__main__':
     api.run(debug=True)
